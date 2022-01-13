@@ -1,0 +1,19 @@
+jenkins:
+  systemMessage: "Solution for assignment #1: Spinning Jenkins with Docker-compose and CASC\n
+                  for Nir Geier\n
+                  Writing By Efi Eisikovits, Tel: 054-960-83-22"
+
+  securityRealm:
+    local:
+      allowsSignup: false
+      users:
+       - id: user1 
+         password: 1234 
+         # obviously it's not wise to hard code the password better using a secret file 
+  #    - id: ${JENKINS_ADMIN_ID}
+  #      password: ${JENKINS_ADMIN_PASSWORD}
+
+
+unclassified:
+  location:
+    url: http://127.0.0.1:8080/
