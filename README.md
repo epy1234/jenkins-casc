@@ -6,11 +6,12 @@
 After finish downloaded:
  
 Type:
- docker-compose up --build
+docker-compose up --build
  
-Go on browser to: localhost:80
+Go on browser to:
+localhost:80
 
-Click on Log In
+Click on Log In.
 Insert:
 
 Usename: user1
