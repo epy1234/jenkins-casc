@@ -1,6 +1,6 @@
 ﻿# jenkins-casc
  
-> First clone it to your machine, type:
+> First clone it to your machine:
 
 `$ git clone https://github.com/epy1234/jenkins-casc.git`
   
@@ -15,6 +15,6 @@
 
 > Click on Log In.
 
-`Usename: user1`
+`Username: user1`/n
 `Password: 1234`
 
