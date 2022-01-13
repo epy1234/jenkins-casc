@@ -4,12 +4,11 @@
 
 `$ git clone https://github.com/epy1234/jenkins-casc.git`
   
-
-> After finish downloaded:
+> After download is complete:
  
 `$ docker compose up --build`
  
-> In browser go to:
+> Go to:
 
 `localhost:80`
 
