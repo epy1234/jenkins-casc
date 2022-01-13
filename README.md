@@ -7,15 +7,14 @@
 
 After finish downloaded:
  
-####Inline code
-'$ docker####Inline code-compose up --build'
+`$ docker####Inline code-compose up --build`
  
 Go on browser to:
-####Inline code
-localhost:80
+
+`localhost:80`
 
 Click on Log In.
-####Inline code
-Usename: user1
-Password: 1234
+
+`Usename: user1`
+`Password: 1234`
 
