@@ -7,7 +7,7 @@
 
 After finish downloaded:
  
-`$ docker####Inline code-compose up --build`
+`$ docker compose up --build`
  
 Go on browser to:
 
