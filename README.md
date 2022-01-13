@@ -1,7 +1,6 @@
 ﻿# jenkins-casc
  
  First clone it to your machine, type:
- ####Inline code
 
 `$ git clone https://github.com/epy1234/jenkins-casc.git`
   
