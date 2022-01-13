@@ -15,6 +15,6 @@
 
 > Click on Log In.
 
-`Username: user1`/n
+`Username: user1`\
 `Password: 1234`
 
